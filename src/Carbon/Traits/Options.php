@@ -447,7 +447,7 @@ trait Options
             }
         }
 
-        $this->addExtraDebugInfos($infos);
+//         $this->addExtraDebugInfos($infos);
 
         return $infos;
     }
